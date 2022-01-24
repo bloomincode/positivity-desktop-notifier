@@ -1,2 +1,2 @@
 # desktop-notifier
-Learn a new word everyday with this desktop notifier
+Every hour send a notification to desktop of a positive quote
